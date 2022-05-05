@@ -1,5 +1,8 @@
 #!/usr/bin/bash 
 #Usage: Accepts a domain name as input and returns the IP address of the domain as output 
+#Example use: ./domain-IP.sh google.com cnn.com foxnews.com
+
+
 
 echo "Retrieving IP Address..."
 echo " "
